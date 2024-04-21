@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System_zarzadzania_kolekcjonerstwem", "System_zarzadzania_kolekcjonerstwem\System_zarzadzania_kolekcjonerstwem.csproj", "{83D1F36C-6282-4210-8441-613490D7EFD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83D1F36C-6282-4210-8441-613490D7EFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D1F36C-6282-4210-8441-613490D7EFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D1F36C-6282-4210-8441-613490D7EFD7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{83D1F36C-6282-4210-8441-613490D7EFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D1F36C-6282-4210-8441-613490D7EFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D1F36C-6282-4210-8441-613490D7EFD7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {718A5712-8102-464F-8945-75A82A9C0CF0}
+	EndGlobalSection
+EndGlobal

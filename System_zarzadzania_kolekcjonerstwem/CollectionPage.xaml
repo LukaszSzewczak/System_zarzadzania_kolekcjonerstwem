@@ -1,0 +1,16 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="System_zarzadzania_kolekcjonerstwem.CollectionPage">
+    <StackLayout>
+        <Label x:Name="CollectionNameLabel" FontSize="Large" HorizontalOptions="Center" Margin="10"/>
+        <ScrollView>
+            <StackLayout x:Name="ItemsList" Margin="10"/>
+        </ScrollView>
+        <StackLayout Orientation="Horizontal" Margin="10">
+            <Entry x:Name="NewItemEntry" Placeholder="New Item" HorizontalOptions="FillAndExpand"/>
+            <Button Text="Add" Clicked="AddItemButton_Clicked" HorizontalOptions="End"/>
+        </StackLayout>
+      
+    </StackLayout>
+</ContentPage>
+
